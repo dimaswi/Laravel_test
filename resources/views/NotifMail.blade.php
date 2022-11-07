@@ -1,0 +1,1 @@
+<h1>Laravel Email Notification With Queue</h1>
